@@ -1,0 +1,2 @@
+buildCommand: "./build.sh"
+startCommand: "gunicorn ProjetoAFRDjango.wsgi:application"
