@@ -1,2 +1,2 @@
 buildCommand: "./build.sh"
-startCommand: "gunicorn ProjetoAFRDjango.wsgi:application"
+startCommand: "gunicorn PrjBibliotech.wsgi:application"
