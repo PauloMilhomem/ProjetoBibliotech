@@ -1,1 +1,1 @@
-web: gunicorn ProjetoAFRDjango.wsgi
+web: gunicorn PrjBibliotech.wsgi
